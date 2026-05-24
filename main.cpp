@@ -457,7 +457,7 @@ double bruteForceClosest(const vector<Point>& S) {
         return numeric_limits<double>::infinity();
 
     }
-
+    
     double minDist = numeric_limits<double>::infinity();
 
     //S.size() == 3
